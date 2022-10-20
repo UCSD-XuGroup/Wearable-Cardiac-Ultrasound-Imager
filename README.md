@@ -16,7 +16,7 @@ In the paper "A wearable cardiac ultrasound imager", we experimented with severa
 
 ## Examples
 The following video is an example of semantic segmentation on left ventricle images collected from a subject who has just finished an intense exercise, using FCN-32 which was the best-performing model in our experiments. 
-![](docs/media/fcn32-video.avi) 
+![](media/fcn32-video.avi) 
 
 
 
